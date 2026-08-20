@@ -15,6 +15,8 @@ Me entreviste para uma posição de "Desenvolvedor Front-end Junior".
 > Tente avaliar minhas skils técnicas e minhas soft skils
 > Ao final, me dê um feedback sobre minhas respostas
 
+Foi gerado o arquivo Resultado Entrevista.md
+
 
 
 
